@@ -15,5 +15,3 @@ while true; do
   sleep 10
   
 done;
-
-export LANG=ja_JP.UTF-8
